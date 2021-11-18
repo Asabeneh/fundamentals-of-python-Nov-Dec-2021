@@ -13,7 +13,7 @@ print(type(1 + 4j))
 print("Asabeneh")
 print(type("Asabeneh"))
 print('I and my students love Python. I believe they are really enjoying it.')
-print(len('Asabeneh'))
+print(len('Asabeneh')) # 7
 print(len('I and my students love Python. I believe they are really enjoying it.'))
 
 # List
@@ -32,13 +32,13 @@ print({1, 2, 3, 4, 5})
 print(type({1, 2, 3, 4, 5}))
 
 # dictionary
-print({
+finnish_to_eng = {
     'sana':'word',
     'talo':'house',
-    'mies':'man'
-    })
-print(type({
-    'sana':'word',
-    'talo':'house',
-    'mies':'man'
-    }))
+    'mies':'man',
+    'nainen':'women',
+    'kirja':'book'
+
+    }
+print(finnish_to_eng)
+print(type(finnish_to_eng))

@@ -26,7 +26,8 @@ print(round(2.51))
 # abs(), int(), str(), sum(), min(), max(), type(), bool(), range(),id(), dir(),list()
 print(abs(-5))
 print(int('2') + 2)
-print('002' + str(2))
+print('2' + str(2)) # 22
+print('002' + str(2)) # 0022
 print('hello' + ' ' +  'world')
 print(sum([1, 2, 3]))
 print(min(1, 3, 4, 10, -10))
