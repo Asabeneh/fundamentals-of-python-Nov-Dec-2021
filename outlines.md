@@ -26,6 +26,9 @@
 - Dictionary
 - Functions
 # WEEK 5
+- Revision of Functions
+- Lambda Functions
+- Higher Order Functions
 - Modules
 # WEEK 6
 - Revision
